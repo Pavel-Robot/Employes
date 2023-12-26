@@ -1,0 +1,17 @@
+D:\test_c_sharp\WindowsFormTest\bin\Debug\WindowsFormTest.exe.config
+D:\test_c_sharp\WindowsFormTest\bin\Debug\WindowsFormTest.exe
+D:\test_c_sharp\WindowsFormTest\bin\Debug\WindowsFormTest.pdb
+D:\test_c_sharp\WindowsFormTest\obj\Debug\WindowsFormTest.csproj.AssemblyReference.cache
+D:\test_c_sharp\WindowsFormTest\obj\Debug\WindowsFormTest.csproj.SuggestedBindingRedirects.cache
+D:\test_c_sharp\WindowsFormTest\obj\Debug\WindowsFormTest.Properties.Resources.resources
+D:\test_c_sharp\WindowsFormTest\obj\Debug\WindowsFormTest.csproj.GenerateResource.cache
+D:\test_c_sharp\WindowsFormTest\obj\Debug\WindowsFormTest.csproj.CoreCompileInputs.cache
+D:\test_c_sharp\WindowsFormTest\obj\Debug\WindowsFormTest.exe
+D:\test_c_sharp\WindowsFormTest\obj\Debug\WindowsFormTest.pdb
+D:\test_c_sharp\WindowsFormTest\obj\Debug\WindowsFormTest.MainForm.resources
+D:\test_c_sharp\WindowsFormTest\obj\Debug\WindowsFormTest.ApplicantForm.resources
+D:\test_c_sharp\WindowsFormTest\obj\Debug\WindowsFormTest.EmployeeForm.resources
+D:\test_c_sharp\WindowsFormTest\obj\Debug\WindowsFormTest.PostForm.resources
+D:\test_c_sharp\WindowsFormTest\obj\Debug\WindowsFormTest.SubDivisionForm.resources
+D:\test_c_sharp\WindowsFormTest\obj\Debug\WindowsFormTest.csproj.ResolveComReference.cache
+D:\test_c_sharp\WindowsFormTest\obj\Debug\WindowsFormTest.Backend.resources
